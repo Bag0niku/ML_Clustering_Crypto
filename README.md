@@ -24,5 +24,5 @@ Please view the [Jupyter Notebook](https://github.com/Bag0niku/ML_Clustering_Cry
 
 
 ## Next Steps:
-- Investigate what the realtionship of those 4 groups, what Tokens are in them, and what seperates them.
+- Investigate what the realtionship of those 4 groups are, what Tokens are in them, and what seperates them. The computer told me they are related, but now I have to figure out how.
 
