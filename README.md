@@ -19,7 +19,7 @@ Please view the [Jupyter Notebook](https://github.com/Bag0niku/ML_Clustering_Cry
 ### When you used those grouping results and apply them to the "total coins mined" vs "total coin supply" scatter plot you get:
 ![scatter plot](/Images/supply_scatter_1.png)
 
-### Those 2 outliers make the graph harder to see, lets zoom in on the clump.
+### Those 2 outliers make the rest of the graph harder to see, lets zoom in on the clump.
 ![zoomed scatter plot](/Images/supply_scatter_zoom.png)
 
 
